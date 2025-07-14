@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est bot-35 — Sysadmin, DevOps futuriste & bidouilleur de packs cloud
+# 👋 Salut, moi c’est 🤖 bot-35 — Sysadmin, DevOps futuriste & bidouilleur de packs cloud
 
 🛠️ Admin sys & réseau de métier, je me suis donné une mission :  
 **transformer l’infra galère en produits DevOps simples, puissants et prêts à déployer**.
